@@ -1,6 +1,6 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+/bin
+/org.eclipse.swt.examples.source
+/target
+/ExcelDownloader.log
+/test.txt
+/temp
